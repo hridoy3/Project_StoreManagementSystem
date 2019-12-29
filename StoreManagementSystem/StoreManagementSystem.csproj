@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{54FE5811-D75E-42AD-BED7-A1418F9F9C05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WarehouseApp</RootNamespace>
+    <AssemblyName>WarehouseApp</AssemblyName>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0F5C102CEF5291C80248E80B9F1BB2C23C88002D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WarehouseApp_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\AuthenticationCheckBLL.cs" />
+    <Compile Include="BLL\CategoriesBLL.cs" />
+    <Compile Include="BLL\CustDeaBLL.cs" />
+    <Compile Include="BLL\LedgerBLL.cs" />
+    <Compile Include="BLL\LoginBLL.cs" />
+    <Compile Include="BLL\NormalCustomerBLL.cs" />
+    <Compile Include="BLL\ProductsBLL.cs" />
+    <Compile Include="BLL\TransactionDetailsBLL.cs" />
+    <Compile Include="BLL\TransactionsBLL.cs" />
+    <Compile Include="BLL\UsersBLL.cs" />
+    <Compile Include="BLL\UsersEditBLL.cs" />
+    <Compile Include="DAL\AuthenticationCheckDAL.cs" />
+    <Compile Include="DAL\CategoriesDAL.cs" />
+    <Compile Include="DAL\CustDeaDAL.cs" />
+    <Compile Include="DAL\LedgerDAL.cs" />
+    <Compile Include="DAL\LoginDAL.cs" />
+    <Compile Include="DAL\NormalCustomerDAL.cs" />
+    <Compile Include="DAL\ProductsDAL.cs" />
+    <Compile Include="DAL\TransactionDAL.cs" />
+    <Compile Include="DAL\TransactionDetailDAL.cs" />
+    <Compile Include="DAL\UsersDAL.cs" />
+    <Compile Include="DAL\UsersEditDAL.cs" />
+    <Compile Include="StoreDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StoreDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormAddManualPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormAddManualPayment.Designer.cs">
+      <DependentUpon>FormAddManualPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormAuthenticationCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormAuthenticationCheck.Designer.cs">
+      <DependentUpon>FormAuthenticationCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormCategories.Designer.cs">
+      <DependentUpon>FormCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormCategoriesList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormCategoriesList.Designer.cs">
+      <DependentUpon>FormCategoriesList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormCustomersDealersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormCustomersDealersList.Designer.cs">
+      <DependentUpon>FormCustomersDealersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormInventory.Designer.cs">
+      <DependentUpon>FormInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormLedger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormLedger.Designer.cs">
+      <DependentUpon>FormLedger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormLedgerNormalCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormLedgerNormalCustomer.Designer.cs">
+      <DependentUpon>FormLedgerNormalCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormLedgerRegularCustomerListAndDealer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormLedgerRegularCustomerListAndDealer.Designer.cs">
+      <DependentUpon>FormLedgerRegularCustomerListAndDealer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormProductsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormProductsList.Designer.cs">
+      <DependentUpon>FormProductsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormPurchaseAndSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormPurchaseAndSales.Designer.cs">
+      <DependentUpon>FormPurchaseAndSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormTransactions.Designer.cs">
+      <DependentUpon>FormTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormUsersAUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormUsersAUD.Designer.cs">
+      <DependentUpon>FormUsersAUD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormProducts.Designer.cs">
+      <DependentUpon>FormProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormCustomersDealers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormCustomersDealers.Designer.cs">
+      <DependentUpon>FormCustomersDealers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormAdminDashboard.Designer.cs">
+      <DependentUpon>FormAdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormUserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormUserDashboard.Designer.cs">
+      <DependentUpon>FormUserDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\FormUsersEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormUsersEdit.Designer.cs">
+      <DependentUpon>FormUsersEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormUsersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormUsersList.Designer.cs">
+      <DependentUpon>FormUsersList.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\FormAddManualPayment.resx">
+      <DependentUpon>FormAddManualPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormCategoriesList.resx">
+      <DependentUpon>FormCategoriesList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormCustomersDealersList.resx">
+      <DependentUpon>FormCustomersDealersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormInventory.resx">
+      <DependentUpon>FormInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormLedger.resx">
+      <DependentUpon>FormLedger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormLedgerNormalCustomer.resx">
+      <DependentUpon>FormLedgerNormalCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormLedgerRegularCustomerListAndDealer.resx">
+      <DependentUpon>FormLedgerRegularCustomerListAndDealer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormProducts.resx">
+      <DependentUpon>FormProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormAuthenticationCheck.resx">
+      <DependentUpon>FormAuthenticationCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormCategories.resx">
+      <DependentUpon>FormCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormCustomersDealers.resx">
+      <DependentUpon>FormCustomersDealers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormAdminDashboard.resx">
+      <DependentUpon>FormAdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormProductsList.resx">
+      <DependentUpon>FormProductsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormPurchaseAndSales.resx">
+      <DependentUpon>FormPurchaseAndSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormTransactions.resx">
+      <DependentUpon>FormTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormUserDashboard.resx">
+      <DependentUpon>FormUserDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\FormUsersAUD.resx">
+      <DependentUpon>FormUsersAUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormUsersEdit.resx">
+      <DependentUpon>FormUsersEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormUsersList.resx">
+      <DependentUpon>FormUsersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="StoreDataSet.xsc">
+      <DependentUpon>StoreDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="StoreDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StoreDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="StoreDataSet.xss">
+      <DependentUpon>StoreDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="WarehouseApp_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-customer-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-exit-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sync-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Store.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Store_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Store.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

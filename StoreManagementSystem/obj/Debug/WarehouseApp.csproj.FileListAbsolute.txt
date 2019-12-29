@@ -1,0 +1,532 @@
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsers.resources
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsers.resources
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+C:\Users\student\Downloads\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FromProducts.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FromProducts.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\WarehouseApp-20181126T020652Z-001\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Projects_GUI\WarehouseApp-edit1\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-edit2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-edit3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Projects_GUI\WarehouseApp-edit4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\StoreManagementSystem - Copy\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\StoreManagementSystem - adding modified date\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\StoreManagementSystem - remove Scope\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - add normal cumtomer\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 3\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUser.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedger.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.HomeAdmin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAddManualPayment.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedgerRegularCustomerListAndDealer.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedgerNormalCustomer.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Final 4\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealersList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAddManualPayment.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealersList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedger.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedgerNormalCustomer.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedgerRegularCustomerListAndDealer.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\Thôt nốt\Projects_GUI\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+G:\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+G:\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+G:\StoreManagementSystem - Complete\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAddManualPayment.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealersList.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedger.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedgerNormalCustomer.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedgerRegularCustomerListAndDealer.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\project\StoreManagementSystem - Complete 2\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\bin\Debug\Store.mdf
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\bin\Debug\Store_log.ldf
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe.manifest
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.application
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAddManualPayment.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealersList.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormInventory.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedger.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedgerNormalCustomer.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormLedgerRegularCustomerListAndDealer.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormProducts.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCategories.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormLogin.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUserDashboard.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.FormUsersAUD.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe.manifest
+E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.application
