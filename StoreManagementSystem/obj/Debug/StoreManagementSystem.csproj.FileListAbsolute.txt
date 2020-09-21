@@ -65,3 +65,37 @@ E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\Warehous
 E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.GenerateResource.Cache
 E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\StoreManagementSystem\obj\Debug\WarehouseApp.exe.manifest
 E:\C#\7th semester\project\StoreManagementSystemFullAndFinal - Copy (2)\WarehouseApp\StoreManagementSystem\obj\Debug\WarehouseApp.application
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\bin\Debug\WarehouseApp.exe.config
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.exe
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.pdb
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\bin\Debug\Store.mdf
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\bin\Debug\Store_log.ldf
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\bin\Debug\WarehouseApp.exe.manifest
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\bin\Debug\WarehouseApp.application
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\bin\Debug\WarehouseApp.exe
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\bin\Debug\WarehouseApp.pdb
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csprojResolveAssemblyReference.cache
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormAddManualPayment.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormCategoriesList.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormCustomersDealersList.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormInventory.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormLedger.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormLedgerNormalCustomer.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormLedgerRegularCustomerListAndDealer.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.FormProducts.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormAuthenticationCheck.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormCategories.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormCustomersDealers.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.FormLogin.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.FormAdminDashboard.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormProductsList.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormPurchaseAndSales.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormTransactions.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.FormUserDashboard.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.Properties.Resources.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.FormUsersAUD.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormUsersEdit.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.UI.FormUsersList.resources
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.GenerateResource.Cache
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.exe.manifest
+W:\GitRepo\Project_StoreManagementSystem\StoreManagementSystem\obj\Debug\WarehouseApp.application
